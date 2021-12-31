@@ -1,0 +1,13 @@
+.movie_group {
+    padding-bottom: 2rem;
+    margin: 3rem;
+    overflow: hidden;
+}
+
+.list_title {
+font-size: 1.75rem;
+margin-left: 10px;
+}
+.movies_cad {
+    display: inline-block;
+}

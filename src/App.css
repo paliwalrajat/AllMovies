@@ -1,0 +1,19 @@
+.App {
+  background-color: #fff;
+  color: #000;
+  font-family: sans-serif;
+}
+
+.row {
+  margin: 2.5rem;
+  overflow: hidden;
+}
+
+.list__title {
+  font-size: 1.75rem;
+  margin-left: 10px;
+}
+
+.movie__list {
+  display: flex;
+}
