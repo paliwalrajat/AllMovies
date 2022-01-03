@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AllMovies/static/css/main.6058016c.chunk.css",
+    "main.js": "/AllMovies/static/js/main.43fac608.chunk.js",
+    "main.js.map": "/AllMovies/static/js/main.43fac608.chunk.js.map",
+    "runtime-main.js": "/AllMovies/static/js/runtime-main.b594b4a2.js",
+    "runtime-main.js.map": "/AllMovies/static/js/runtime-main.b594b4a2.js.map",
+    "static/js/2.3e2d5ca8.chunk.js": "/AllMovies/static/js/2.3e2d5ca8.chunk.js",
+    "static/js/2.3e2d5ca8.chunk.js.map": "/AllMovies/static/js/2.3e2d5ca8.chunk.js.map",
+    "index.html": "/AllMovies/index.html",
+    "static/css/main.6058016c.chunk.css.map": "/AllMovies/static/css/main.6058016c.chunk.css.map",
+    "static/js/2.3e2d5ca8.chunk.js.LICENSE.txt": "/AllMovies/static/js/2.3e2d5ca8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b594b4a2.js",
+    "static/js/2.3e2d5ca8.chunk.js",
+    "static/css/main.6058016c.chunk.css",
+    "static/js/main.43fac608.chunk.js"
+  ]
+}
